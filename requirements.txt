@@ -1,0 +1,8 @@
+streamlit
+feedparser
+pyzbar
+Pillow
+python-dotenv
+google-generativeai
+
+
